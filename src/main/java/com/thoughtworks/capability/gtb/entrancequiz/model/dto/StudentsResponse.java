@@ -8,4 +8,6 @@ public class StudentsResponse {
     private List<Student> students;
 
     public StudentsResponse(List<Student> students) { this.students = students; }
+
+    public List<Student> getStudents(){ return this.students; }
 }
