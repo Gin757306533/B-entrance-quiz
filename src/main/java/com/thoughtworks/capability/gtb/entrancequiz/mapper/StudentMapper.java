@@ -6,6 +6,7 @@ import org.springframework.stereotype.Repository;
 import java.util.ArrayList;
 import java.util.List;
 
+// TODO GTB-工程实践: - Repository类推荐命名为xxxRepository
 @Repository
 public class StudentMapper {
 
